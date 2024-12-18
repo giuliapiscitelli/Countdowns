@@ -4,7 +4,7 @@ Countdowns App 📝
 
 This is a simple iOS app built with Xcode that helps users staying organized by managing their events and tasks.
 
-![App Screenshot](screenshot.png)
+
 
 🚀Features
 - Add, edit, and delete events
@@ -14,10 +14,10 @@ This is a simple iOS app built with Xcode that helps users staying organized by 
 - VoiceOver accessibility
 
 🔨Installation
-1. Clone this repository: `git clone 
+1. Clone this repository: `git clone https://github.com/giuliapiscitelli/Countdowns.git
 2. Open the project in Xcode.
 3. Run the app on a simulator or connected device.
 
 
 📄License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
