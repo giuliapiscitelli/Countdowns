@@ -10,18 +10,18 @@ This is a simple iOS app built with Xcode that helps users staying organized by 
 
 <img src="IMG_1126.PNG" alt="Screenshot" width= "30%"> <img src="IMG_1127.PNG" alt="Screenshot" width= "30%"> <img src="IMG_1128.PNG" alt="Screenshot" width= "30%"> <img src="IMG_1129.PNG" alt="Screenshot" width= "30%"> 
 
-🚀Features
+## 🚀Features
 - Add, edit, and delete events
 - Event filtering by category
 - Event sorting by date
 - Display of time remaining
 - VoiceOver accessibility
 
-🔨Installation
+## 🔨Installation
 1. Clone this repository: `git clone https://github.com/giuliapiscitelli/Countdowns.git
 2. Open the project in Xcode.
 3. Run the app on a simulator or connected device.
 
 
-📄License
+## 📄License
 This project is licensed under the MIT License.
